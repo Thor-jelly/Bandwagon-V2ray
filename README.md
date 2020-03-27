@@ -1,3 +1,6 @@
+# 暂时改换机场不更新
+[如有需求可以看我暂时用的机场](https://github.com/Thor-jelly/proxy)
+
 # Bandwagon-V2ray
 Bandwagon-V2ray记录
 
